@@ -1,0 +1,14 @@
+To execute basic branch predictors simulators (Smith, Bimodal, Gshare, Hybrid),
+
+1. Navigate to the baseline folder.
+2. Run the Makefile.
+
+To execute branch predictors simulators with Probabilistic saturation counter(Smith, Bimodal, Gshare, Hybrid),
+
+1. Navigate to the PSC folder.
+2. Run the Makefile.
+
+To execute Prime+Probe attack on branch predictors simulators,
+
+1. Navigate to the Prime+Probe folder.
+2. Run the Makefile.
